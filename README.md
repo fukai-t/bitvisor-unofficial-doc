@@ -1,4 +1,5 @@
 # BitVisor Unofficial Document Project
+BitVisor の **非公式** ドキュメントを作るプロジェクトです．ドキュメントの URL は→ https://fukai-t.github.io/bitvisor-unofficial-doc/
 ## プロジェクト概要
 長らく研究開発が続いている[BitVisor](https://bitvisor.org/ "BitVisor")ですが，最近「ドキュメントが少ない，古い」などの声をよく聞きます．
 [BitVisor Advent Calendar 2019](https://qiita.com/advent-calendar/2019/bitvisor "BitVisor Advent Calendar") という企画で例年多くの情報がブログ記事で共有されていますが，依然としてまとまったドキュメントがないという悩みは尽きないように思います．
@@ -8,6 +9,7 @@
 なお，この企画は BitVisor Advent Calendar の管理をしている私が勝手に始めた企画であり，公式の企画ではありませんのでご注意ください(なので，**Unofficial** Document Project です)．
 
 ドキュメントがそれなりにできましたら，メンテナーを募って継続的にメンテナンスできればいいなと思っています．
+また，ドキュメントは https://fukai-t.github.io/bitvisor-unofficial-doc/ で見れるようにようになっています．．
 
 ## 募集記事の一覧
 募集記事の一覧は，Github の [issue](https://github.com/fukai-t/bitvisor-unofficial-doc/issues) として管理しています．
@@ -21,3 +23,4 @@
 4. PR を Advent Calendear の記事の URL として投稿する．
 
 投稿方法がよくわからない方は，Qiita などで記事を書いたうえで記事中にどの募集記事に対応するかなどを明記いただければと思います．
+また，ドキュメントの Top ページや Outline, 記事割など，募集記事以外の issue や pull request も歓迎です．
