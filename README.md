@@ -1,5 +1,7 @@
 # BitVisor Unofficial Document Project
 BitVisor の **非公式** ドキュメントを作るプロジェクトです．ドキュメントの URL は→ https://fukai-t.github.io/bitvisor-unofficial-doc/
+
+記事募集中! 募集記事一覧はこちら → https://github.com/fukai-t/bitvisor-unofficial-doc/issues
 ## プロジェクト概要
 長らく研究開発が続いている[BitVisor](https://bitvisor.org/ "BitVisor")ですが，最近「ドキュメントが少ない，古い」などの声をよく聞きます．
 [BitVisor Advent Calendar 2019](https://qiita.com/advent-calendar/2019/bitvisor "BitVisor Advent Calendar") という企画で例年多くの情報がブログ記事で共有されていますが，依然としてまとまったドキュメントがないという悩みは尽きないように思います．
